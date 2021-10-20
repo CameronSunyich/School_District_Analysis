@@ -2,7 +2,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 0,Paul Bradley,M,9th,Huang High School,66,79
 1,Victor Smith,M,12th,Huang High School,94,61
 2,Kevin Rodriguez,M,12th,Huang High School,90,60
-3,Dr. Richard Scott,M,12th,Huang High School,67,58
+3,Richard Scott,M,12th,Huang High School,67,58
 4,Bonnie Ray,F,9th,Huang High School,97,84
 5,Bryan Miranda,M,9th,Huang High School,94,94
 6,Sheena Carter,F,11th,Huang High School,82,80
@@ -14,7 +14,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 12,Brittney Walker,F,9th,Huang High School,64,79
 13,William Long,M,9th,Huang High School,71,79
 14,Tammy Hebert,F,10th,Huang High School,85,67
-15,Dr. Jordan Carson,M,11th,Huang High School,94,88
+15,Jordan Carson,M,11th,Huang High School,94,88
 16,Donald Zamora,M,9th,Huang High School,88,55
 17,Kimberly Santiago,F,9th,Huang High School,74,75
 18,Kevin Stevens,M,9th,Huang High School,64,69
@@ -56,7 +56,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 54,Tracey Yates,F,9th,Huang High School,83,68
 55,Jerry Gordon,M,12th,Huang High School,95,71
 56,Michael Cox,M,11th,Huang High School,72,72
-57,Madeline Snyder MD,F,9th,Huang High School,97,56
+57,Madeline Snyder,F,9th,Huang High School,97,56
 58,Allison King,F,11th,Huang High School,74,84
 59,Theresa Meyer,F,9th,Huang High School,88,70
 60,Jared Wood,M,9th,Huang High School,63,89
@@ -65,7 +65,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 63,Ronnie Conley,M,11th,Huang High School,77,61
 64,Kimberly Davis,F,12th,Huang High School,87,57
 65,Amy Mitchell,F,11th,Huang High School,74,60
-66,Mr. Dylan Taylor MD,M,10th,Huang High School,77,93
+66,Dylan Taylor,M,10th,Huang High School,77,93
 67,Elizabeth Henderson,F,12th,Huang High School,70,60
 68,James Lopez,M,12th,Huang High School,65,82
 69,Michael Morgan,M,11th,Huang High School,75,89
@@ -73,7 +73,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 71,Breanna Taylor,F,10th,Huang High School,93,68
 72,Jason Johnson,M,12th,Huang High School,82,65
 73,Kyle Martin,M,10th,Huang High School,72,94
-74,Dr. Scott Gill,M,10th,Huang High School,85,85
+74,Scott Gill,M,10th,Huang High School,85,85
 75,Lisa Long,F,10th,Huang High School,87,62
 76,Erin Liu,F,9th,Huang High School,78,76
 77,Marcus Richards,M,12th,Huang High School,83,76
@@ -259,7 +259,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 257,Alexander Obrien,M,10th,Huang High School,68,90
 258,Vincent Garza,M,10th,Huang High School,97,61
 259,Terry Marsh,M,11th,Huang High School,99,69
-260,Angela Perkins DVM,F,11th,Huang High School,76,56
+260,Angela Perkins,F,11th,Huang High School,76,56
 261,Peter Hampton,M,9th,Huang High School,83,97
 262,David Cross,M,11th,Huang High School,68,61
 263,Clinton Ortega,M,10th,Huang High School,93,62
@@ -413,7 +413,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 411,Stephanie Mercado,F,9th,Huang High School,93,98
 412,William Smith,M,11th,Huang High School,69,94
 413,Jonathan Marshall,M,12th,Huang High School,86,72
-414,Luke Lowery MD,M,10th,Huang High School,93,82
+414,Luke Lowery,M,10th,Huang High School,93,82
 415,Emily Reynolds,F,9th,Huang High School,88,99
 416,Kevin Mclean,M,9th,Huang High School,86,80
 417,Elizabeth Taylor,F,11th,Huang High School,97,84
@@ -424,17 +424,17 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 422,Michelle Griffin,F,10th,Huang High School,85,81
 423,Theresa Andrews,F,12th,Huang High School,65,58
 424,Alan Henry,M,9th,Huang High School,63,81
-425,Dr. Larry Hines,M,10th,Huang High School,91,59
+425,Larry Hines,M,10th,Huang High School,91,59
 426,Travis Frazier,M,12th,Huang High School,75,68
 427,Julie Jones,F,12th,Huang High School,74,68
 428,Natalie Reynolds,F,10th,Huang High School,77,70
 429,Jessica Cohen,F,10th,Huang High School,69,98
 430,Jason Robinson,M,12th,Huang High School,69,95
 431,Heather Palmer,F,9th,Huang High School,78,57
-432,Emily Cardenas MD,F,10th,Huang High School,77,87
+432,Emily Cardenas,F,10th,Huang High School,77,87
 433,Scott Glover,M,12th,Huang High School,65,92
 434,Jacqueline White,F,12th,Huang High School,68,67
-435,Mrs. Elizabeth Espinoza DDS,F,9th,Huang High School,76,75
+435,Mrs. Elizabeth Espinoza,F,9th,Huang High School,76,75
 436,Toni Porter,F,11th,Huang High School,92,72
 437,Jennifer Mejia,F,11th,Huang High School,90,59
 438,Brenda Peterson,F,10th,Huang High School,75,78
@@ -457,7 +457,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 455,Samantha Hanson,F,9th,Huang High School,83,61
 456,Christopher Williams,M,11th,Huang High School,89,83
 457,Stephanie Hart,F,12th,Huang High School,94,63
-458,Mrs. Lisa Becker,F,11th,Huang High School,84,68
+458,Lisa Becker,F,11th,Huang High School,84,68
 459,Bianca Johnson,F,9th,Huang High School,92,68
 460,Amy Steele,F,12th,Huang High School,67,63
 461,Gina Contreras,F,9th,Huang High School,92,92
@@ -466,7 +466,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 464,Caitlin Williams,F,10th,Huang High School,98,79
 465,Joseph Lloyd,M,9th,Huang High School,81,89
 466,Carrie Hernandez,F,11th,Huang High School,86,92
-467,Mr. Travis Young,M,10th,Huang High School,81,61
+467,Travis Young,M,10th,Huang High School,81,61
 468,Francis Wright,M,12th,Huang High School,63,92
 469,Joel Harper,M,9th,Huang High School,99,94
 470,Eduardo Park,M,9th,Huang High School,67,62
@@ -479,7 +479,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 477,Brenda Price,F,10th,Huang High School,79,75
 478,Joseph Howard,M,10th,Huang High School,90,61
 479,Amy Evans,F,10th,Huang High School,92,73
-480,Paula Fernandez DVM,F,9th,Huang High School,69,96
+480,Paula Fernandez,F,9th,Huang High School,69,96
 481,Amber Cunningham,F,11th,Huang High School,97,86
 482,Preston Wheeler,M,10th,Huang High School,65,56
 483,James Lopez,M,9th,Huang High School,68,89
@@ -560,7 +560,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 558,Tracy Andrade,M,9th,Huang High School,96,77
 559,Amy Sullivan,F,12th,Huang High School,73,60
 560,Howard Beck,M,10th,Huang High School,79,65
-561,Dr. Xavier Bell II,M,11th,Huang High School,84,91
+561,Xavier Bell II,M,11th,Huang High School,84,91
 562,Dawn Schultz,F,10th,Huang High School,96,88
 563,Caleb Lucas,M,12th,Huang High School,74,68
 564,Barbara Gonzalez,F,10th,Huang High School,94,92
@@ -584,7 +584,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 582,Lori Holmes,F,9th,Huang High School,72,94
 583,Rebekah Hampton,F,11th,Huang High School,77,81
 584,Perry Bishop,M,9th,Huang High School,85,73
-585,Andrew Hanson MD,M,12th,Huang High School,73,73
+585,Andrew Hanson,M,12th,Huang High School,73,73
 586,Jody Hughes,F,11th,Huang High School,96,76
 587,Anna Garcia,F,11th,Huang High School,78,97
 588,Colleen Walker,F,11th,Huang High School,90,74
@@ -650,14 +650,14 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 648,Jared Anderson,M,11th,Huang High School,73,86
 649,Jennifer Yang,F,9th,Huang High School,87,55
 650,Joe Mercado,M,9th,Huang High School,65,57
-651,Mr. Roberto Wright MD,M,11th,Huang High School,73,97
+651,Roberto Wright,M,11th,Huang High School,73,97
 652,Michael Smith,M,10th,Huang High School,88,66
 653,William Park,M,10th,Huang High School,65,70
 654,Benjamin Williams,M,11th,Huang High School,72,96
 655,Dean Perez,M,11th,Huang High School,92,94
-656,Mr. Dale Miller,M,10th,Huang High School,94,87
+656,Dale Miller,M,10th,Huang High School,94,87
 657,Marissa Russell,F,9th,Huang High School,74,68
-658,Mary Gonzalez DDS,F,12th,Huang High School,66,71
+658,Mary Gonzalez,F,12th,Huang High School,66,71
 659,April Jackson,F,10th,Huang High School,93,55
 660,William Hayes,M,9th,Huang High School,95,81
 661,Meghan Holloway,F,11th,Huang High School,92,97
@@ -700,7 +700,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 698,Dawn Palmer,F,9th,Huang High School,89,86
 699,Brianna Benson,F,11th,Huang High School,95,95
 700,Luis Watts,M,11th,Huang High School,83,99
-701,Mrs. Cindy Brown,F,12th,Huang High School,94,63
+701,Cindy Brown,F,12th,Huang High School,94,63
 702,Summer Sandoval,F,9th,Huang High School,84,65
 703,Ashley Smith,F,12th,Huang High School,87,64
 704,Randy Wallace,M,10th,Huang High School,93,87
@@ -731,12 +731,12 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 729,Cheryl Harding,F,12th,Huang High School,84,62
 730,Keith Hunter,M,9th,Huang High School,79,67
 731,Todd Williams,M,11th,Huang High School,98,79
-732,James White MD,M,11th,Huang High School,79,60
+732,James White,M,11th,Huang High School,79,60
 733,Kyle Johnson,M,11th,Huang High School,93,92
 734,Andrea Suarez,F,12th,Huang High School,92,93
 735,Michael Sanchez,M,9th,Huang High School,72,91
 736,Jaime Torres,F,11th,Huang High School,92,78
-737,Donald Gill DDS,M,9th,Huang High School,78,58
+737,Donald Gill,M,9th,Huang High School,78,58
 738,Austin Lee,M,10th,Huang High School,71,61
 739,Adrian Bowman,M,12th,Huang High School,92,79
 740,Julie Perez,F,10th,Huang High School,63,88
@@ -764,7 +764,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 762,Patricia Lane,F,12th,Huang High School,87,71
 763,Joshua Rose,M,9th,Huang High School,79,73
 764,Hannah Montes,F,10th,Huang High School,80,83
-765,Mrs. Catherine Williams MD,F,10th,Huang High School,98,60
+765,Catherine Williams,F,10th,Huang High School,98,60
 766,Michael Jenkins,M,11th,Huang High School,93,96
 767,James Scott,M,11th,Huang High School,78,81
 768,Evan Ballard,M,11th,Huang High School,81,61
@@ -797,7 +797,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 795,Alejandra Todd,F,11th,Huang High School,93,66
 796,Dana Hoffman,F,10th,Huang High School,83,67
 797,David Howard,M,11th,Huang High School,75,93
-798,Ashley Caldwell MD,F,12th,Huang High School,85,56
+798,Ashley Caldwell,F,12th,Huang High School,85,56
 799,Cindy Horn,F,9th,Huang High School,91,67
 800,Kevin Armstrong,M,10th,Huang High School,74,92
 801,Stacey Porter,F,11th,Huang High School,98,66
@@ -808,7 +808,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 806,Becky Moran,F,9th,Huang High School,93,84
 807,Brenda Smith,F,12th,Huang High School,84,68
 808,Gabrielle Webb,F,12th,Huang High School,78,99
-809,Mr. Jared Campbell,M,10th,Huang High School,75,62
+809,Jared Campbell,M,10th,Huang High School,75,62
 810,Ryan Jenkins,M,9th,Huang High School,76,92
 811,Thomas Shepard,M,9th,Huang High School,86,89
 812,Jeremiah Boyd,M,10th,Huang High School,73,70
@@ -829,13 +829,13 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 827,Tamara Hernandez,F,12th,Huang High School,83,73
 828,Jordan Lewis,M,9th,Huang High School,86,78
 829,Carol Anderson,F,9th,Huang High School,97,93
-830,Michael Moreno PhD,M,12th,Huang High School,97,77
+830,Michael Moreno,M,12th,Huang High School,97,77
 831,Nicholas Logan,M,11th,Huang High School,67,68
 832,Paul Anderson,M,9th,Huang High School,96,96
 833,Jason Young,M,10th,Huang High School,74,55
 834,Wesley Martin,M,11th,Huang High School,69,92
 835,Karen Wall,F,11th,Huang High School,97,58
-836,Tara Parker MD,F,12th,Huang High School,67,89
+836,Tara Parker,F,12th,Huang High School,67,89
 837,Michael Reyes,M,12th,Huang High School,69,75
 838,Amy Henderson,F,10th,Huang High School,91,99
 839,Jessica Reed,F,12th,Huang High School,85,62
@@ -853,10 +853,10 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 851,Elizabeth Lewis,F,9th,Huang High School,72,63
 852,Aaron Moore,M,9th,Huang High School,85,70
 853,Lisa Hogan,F,11th,Huang High School,95,55
-854,Shawn Williams DVM,M,12th,Huang High School,90,84
+854,Shawn Williams,M,12th,Huang High School,90,84
 855,Michele Dickerson,F,9th,Huang High School,73,67
-856,Dr. Alicia Martinez,F,11th,Huang High School,78,62
-857,Mr. Timothy Anderson,M,12th,Huang High School,67,90
+856,Alicia Martinez,F,11th,Huang High School,78,62
+857,Timothy Anderson,M,12th,Huang High School,67,90
 858,Sierra Jackson,F,11th,Huang High School,95,81
 859,Sharon Taylor,F,10th,Huang High School,68,94
 860,Jeffrey Smith,M,9th,Huang High School,72,64
@@ -870,7 +870,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 868,Michael Reilly,M,12th,Huang High School,82,80
 869,Kathleen Schwartz,F,11th,Huang High School,90,69
 870,Stacey Harris,F,11th,Huang High School,65,92
-871,Mrs. Paula Lee,F,9th,Huang High School,72,98
+871,Paula Lee,F,9th,Huang High School,72,98
 872,Adrian Black,M,10th,Huang High School,99,85
 873,Rita Moreno,F,10th,Huang High School,71,65
 874,Jason Perry,M,11th,Huang High School,97,59
@@ -885,13 +885,13 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 883,Caitlin Jones,F,11th,Huang High School,63,71
 884,Barbara Campbell,F,10th,Huang High School,78,89
 885,Katie Gonzales,F,10th,Huang High School,82,62
-886,Mr. Elijah Hall,M,9th,Huang High School,87,63
+886,Elijah Hall,M,9th,Huang High School,87,63
 887,James Sanders,M,12th,Huang High School,70,85
 888,Nicholas Martinez,M,10th,Huang High School,87,56
 889,Maria Mack,F,9th,Huang High School,68,83
 890,Mary Mason,F,10th,Huang High School,74,90
 891,Tiffany Campbell,F,9th,Huang High School,87,80
-892,Mr. Raymond Stone,M,11th,Huang High School,87,66
+892,Raymond Stone,M,11th,Huang High School,87,66
 893,Dominique Henderson,F,12th,Huang High School,77,74
 894,Martin Williams,M,11th,Huang High School,66,88
 895,Hannah Parker,F,11th,Huang High School,81,71
@@ -943,14 +943,14 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 941,Billy Robles,M,11th,Huang High School,86,88
 942,Michelle Delgado,F,11th,Huang High School,98,86
 943,Cindy Harrison,F,11th,Huang High School,73,95
-944,John Dickerson MD,M,10th,Huang High School,95,60
+944,John Dickerson,M,10th,Huang High School,95,60
 945,Tina Armstrong,F,11th,Huang High School,86,74
-946,Mr. Alex Franklin,M,12th,Huang High School,92,80
+946,Alex Franklin,M,12th,Huang High School,92,80
 947,Ryan King,M,10th,Huang High School,80,81
 948,Christine Guzman,F,9th,Huang High School,80,87
 949,Helen Malone,F,10th,Huang High School,72,78
 950,Benjamin Carpenter,M,9th,Huang High School,80,94
-951,Mrs. Jessica Dunn,F,10th,Huang High School,91,80
+951,Jessica Dunn,F,10th,Huang High School,91,80
 952,Jessica Kaiser,F,12th,Huang High School,66,90
 953,Brandon Black,M,11th,Huang High School,81,79
 954,David Hernandez,M,11th,Huang High School,70,77
@@ -974,14 +974,14 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 972,Carrie Nelson,F,11th,Huang High School,83,59
 973,Crystal Fowler,F,10th,Huang High School,63,81
 974,Lori Taylor,F,9th,Huang High School,79,63
-975,Mr. Michael Stevenson,M,11th,Huang High School,77,66
+975,Michael Stevenson,M,11th,Huang High School,77,66
 976,Matthew Holmes,M,10th,Huang High School,77,72
 977,David Walls,M,10th,Huang High School,72,77
 978,Megan Martin,F,9th,Huang High School,96,56
 979,Karen Peterson,F,12th,Huang High School,86,83
 980,Kristen Wallace,F,12th,Huang High School,92,57
 981,Mark Peterson,M,10th,Huang High School,79,70
-982,Jason Jones DDS,M,10th,Huang High School,98,67
+982,Jason Jones,M,10th,Huang High School,98,67
 983,Keith Barber,M,11th,Huang High School,78,73
 984,Patrick Green,M,11th,Huang High School,74,76
 985,Antonio Lopez,M,9th,Huang High School,70,97
@@ -1014,7 +1014,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1012,Erin Mitchell,F,11th,Huang High School,73,76
 1013,Thomas Bush,M,10th,Huang High School,74,91
 1014,Kayla Watkins,F,12th,Huang High School,78,93
-1015,Erica Hurley MD,F,11th,Huang High School,98,83
+1015,Erica Hurley,F,11th,Huang High School,98,83
 1016,Anthony Stanley,M,12th,Huang High School,87,93
 1017,Cassandra Fox,F,10th,Huang High School,85,84
 1018,Christina Cox,F,9th,Huang High School,91,69
@@ -1040,7 +1040,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1038,Jason Walsh,M,9th,Huang High School,83,83
 1039,Heather Wagner,F,9th,Huang High School,66,76
 1040,Rickey Ramirez,M,10th,Huang High School,82,94
-1041,Dr. Garrett Wright,M,9th,Huang High School,99,64
+1041,Garrett Wright,M,9th,Huang High School,99,64
 1042,Peter Robinson,M,11th,Huang High School,86,98
 1043,Alex Haas,M,9th,Huang High School,97,96
 1044,Justin Jones,M,11th,Huang High School,85,80
@@ -1080,12 +1080,12 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1078,William Brown,M,10th,Huang High School,75,82
 1079,Amanda Carter,F,12th,Huang High School,95,93
 1080,Adam Oneill,M,11th,Huang High School,87,75
-1081,Mr. James Allen,M,11th,Huang High School,64,87
+1081,James Allen,M,11th,Huang High School,64,87
 1082,Joseph Carpenter,M,9th,Huang High School,76,57
 1083,Thomas Kline,M,9th,Huang High School,67,83
 1084,Jacqueline Lee,F,9th,Huang High School,73,87
 1085,Andre Cooper,M,12th,Huang High School,83,62
-1086,Mr. Timothy Harper MD,M,11th,Huang High School,95,73
+1086,Timothy Harper,M,11th,Huang High School,95,73
 1087,Zoe Mcmillan,F,11th,Huang High School,69,59
 1088,Donna Burke,F,12th,Huang High School,75,72
 1089,Suzanne Rivers,F,9th,Huang High School,71,73
@@ -1113,7 +1113,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1111,Patricia Warner,F,11th,Huang High School,74,90
 1112,Thomas Mcconnell,M,9th,Huang High School,94,83
 1113,Bradley King,M,10th,Huang High School,90,79
-1114,Dale Brown MD,M,12th,Huang High School,95,81
+1114,Dale Brown,M,12th,Huang High School,95,81
 1115,George Clark,M,12th,Huang High School,93,93
 1116,Mikayla Odom,F,9th,Huang High School,97,87
 1117,Matthew Ortega,M,10th,Huang High School,68,62
@@ -1207,7 +1207,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1205,Eric Smith,M,9th,Huang High School,86,81
 1206,Tracy Woods,M,9th,Huang High School,89,62
 1207,Amy Stokes,F,10th,Huang High School,88,70
-1208,Dr. Christina Moore,F,11th,Huang High School,95,64
+1208,Christina Moore,F,11th,Huang High School,95,64
 1209,Gregory Mitchell,M,9th,Huang High School,93,71
 1210,Jennifer Waters,F,10th,Huang High School,88,57
 1211,Courtney Fuller,F,9th,Huang High School,85,90
@@ -1220,7 +1220,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1218,Jay Ochoa,M,10th,Huang High School,90,75
 1219,Paul King,M,11th,Huang High School,76,74
 1220,Amanda Chandler,F,10th,Huang High School,76,75
-1221,Angela Peterson MD,F,11th,Huang High School,65,66
+1221,Angela Peterson,F,11th,Huang High School,65,66
 1222,James Williams,M,11th,Huang High School,69,78
 1223,Jeremiah Mcconnell,M,9th,Huang High School,81,96
 1224,Rita Salazar,F,9th,Huang High School,75,70
@@ -1255,7 +1255,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1253,Juan Vance,M,9th,Huang High School,83,95
 1254,Erik White,M,10th,Huang High School,91,89
 1255,Kimberly Stone,F,12th,Huang High School,90,89
-1256,Jennifer Ferguson MD,F,12th,Huang High School,99,80
+1256,Jennifer Ferguson,F,12th,Huang High School,99,80
 1257,Heather Smith,F,9th,Huang High School,92,81
 1258,Christian Flores,M,9th,Huang High School,95,87
 1259,Tara Smith,F,12th,Huang High School,96,59
@@ -1291,7 +1291,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1289,Joshua Glenn,M,9th,Huang High School,63,78
 1290,Amanda Myers,F,10th,Huang High School,65,68
 1291,Jerry Gonzales,M,10th,Huang High School,71,75
-1292,Anthony Wilson DDS,M,10th,Huang High School,78,74
+1292,Anthony Wilson,M,10th,Huang High School,78,74
 1293,Kevin Mcbride,M,10th,Huang High School,63,95
 1294,Adam Reed,M,10th,Huang High School,83,82
 1295,Clifford Kirby,M,12th,Huang High School,68,68
@@ -1317,7 +1317,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1315,Kevin Henry,M,12th,Huang High School,69,57
 1316,Mark Lane,M,11th,Huang High School,85,59
 1317,Timothy Sims,M,11th,Huang High School,98,91
-1318,Dr. Jessica Lopez,F,11th,Huang High School,67,63
+1318,Jessica Lopez,F,11th,Huang High School,67,63
 1319,Jeffrey Robinson,M,9th,Huang High School,80,89
 1320,Tyler Collins,M,12th,Huang High School,68,78
 1321,Alexis Roberts,F,11th,Huang High School,91,79
@@ -1358,7 +1358,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1356,Sara Carpenter,F,10th,Huang High School,66,90
 1357,Jose Murray,M,10th,Huang High School,65,71
 1358,Crystal Munoz,F,10th,Huang High School,78,89
-1359,Dr. John Jones,M,12th,Huang High School,81,79
+1359,John Jones,M,12th,Huang High School,81,79
 1360,Shannon Johnson,F,12th,Huang High School,72,95
 1361,Elizabeth Bennett,F,11th,Huang High School,96,94
 1362,Teresa Davis,F,9th,Huang High School,68,86
@@ -1376,7 +1376,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1374,Mary Glover,F,9th,Huang High School,79,74
 1375,David Santiago,M,9th,Huang High School,65,96
 1376,Natalie Riley,F,9th,Huang High School,98,96
-1377,Ms. Samantha Brown,F,11th,Huang High School,63,81
+1377,Samantha Brown,F,11th,Huang High School,63,81
 1378,Denise Wilson,F,10th,Huang High School,76,58
 1379,Keith Marsh,M,10th,Huang High School,95,59
 1380,Katherine Oconnor,F,11th,Huang High School,81,62
@@ -1425,7 +1425,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1423,David Farmer,M,9th,Huang High School,99,64
 1424,Jeremiah Torres,M,11th,Huang High School,79,62
 1425,April Gutierrez,F,9th,Huang High School,86,75
-1426,Cynthia Hansen DVM,F,12th,Huang High School,64,78
+1426,Cynthia Hansen,F,12th,Huang High School,64,78
 1427,Rachel Miller,F,9th,Huang High School,98,80
 1428,Sarah Joseph,F,9th,Huang High School,90,68
 1429,Lori Wells,F,9th,Huang High School,88,76
@@ -1433,7 +1433,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1431,Renee Mahoney,F,11th,Huang High School,68,99
 1432,Megan Spence,F,11th,Huang High School,88,67
 1433,Michelle Mills,F,12th,Huang High School,71,67
-1434,Rebecca Montoya MD,F,12th,Huang High School,63,97
+1434,Rebecca Montoya,F,12th,Huang High School,63,97
 1435,Margaret Koch,F,9th,Huang High School,99,58
 1436,Danny Aguirre,M,9th,Huang High School,91,65
 1437,Cheryl Malone,F,10th,Huang High School,89,70
@@ -1490,7 +1490,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1488,Joel Walls,M,9th,Huang High School,83,77
 1489,Katherine Peterson,F,11th,Huang High School,80,71
 1490,Christine Allison,F,12th,Huang High School,64,60
-1491,Dr. Jacob Matthews,M,12th,Huang High School,78,59
+1491,Jacob Matthews,M,12th,Huang High School,78,59
 1492,Cassandra Lopez,F,9th,Huang High School,86,71
 1493,Jeremy Mcguire,M,11th,Huang High School,67,61
 1494,Eric Reynolds,M,9th,Huang High School,93,57
@@ -1516,7 +1516,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1514,Brittney Johnston,F,11th,Huang High School,82,88
 1515,Alan Mckinney,M,9th,Huang High School,69,59
 1516,Deborah Bauer,F,12th,Huang High School,98,91
-1517,Dr. Jacob Bell,M,10th,Huang High School,70,55
+1517,Jacob Bell,M,10th,Huang High School,70,55
 1518,Donna Carter,F,10th,Huang High School,71,78
 1519,Luke Cook,M,11th,Huang High School,91,77
 1520,Marcus Thomas,M,9th,Huang High School,83,97
@@ -1531,7 +1531,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1529,Adam Tucker,M,12th,Huang High School,98,69
 1530,Tiffany Mitchell,F,9th,Huang High School,84,69
 1531,Donald Anderson,M,9th,Huang High School,68,98
-1532,Mr. Bruce Thomas,M,11th,Huang High School,93,83
+1532,Bruce Thomas,M,11th,Huang High School,93,83
 1533,Samantha Lowe,F,11th,Huang High School,73,83
 1534,Karen Zimmerman,F,10th,Huang High School,66,63
 1535,Jeremy Dean,M,11th,Huang High School,88,71
@@ -1563,7 +1563,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1561,Susan Evans,F,9th,Huang High School,91,81
 1562,William Reyes,M,12th,Huang High School,74,67
 1563,William Howard,M,10th,Huang High School,86,64
-1564,Robert Martin MD,M,10th,Huang High School,70,85
+1564,Robert Martin,M,10th,Huang High School,70,85
 1565,Kathryn Boyd,F,9th,Huang High School,98,98
 1566,Michelle Hall,F,10th,Huang High School,82,92
 1567,Bradley Miller,M,9th,Huang High School,87,65
@@ -1581,7 +1581,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1579,James Wilson,M,10th,Huang High School,96,63
 1580,Derrick Wright,M,10th,Huang High School,73,79
 1581,Danielle Patel,F,12th,Huang High School,68,59
-1582,Mrs. Marcia Jones PhD,F,12th,Huang High School,78,60
+1582,Marcia Jones,F,12th,Huang High School,78,60
 1583,Sharon Blackburn,F,9th,Huang High School,65,62
 1584,April Morgan,F,11th,Huang High School,90,55
 1585,Adrian Greene,M,12th,Huang High School,79,66
@@ -1631,7 +1631,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1629,Jessica Jones,F,10th,Huang High School,92,69
 1630,Kevin Bauer,M,9th,Huang High School,76,90
 1631,Micheal Williams,M,11th,Huang High School,95,58
-1632,Patricia Smith MD,F,10th,Huang High School,64,94
+1632,Patricia Smith,F,10th,Huang High School,64,94
 1633,Robert Villa,M,12th,Huang High School,95,58
 1634,Jose Lucas,M,9th,Huang High School,71,91
 1635,Kelly Wolf,F,10th,Huang High School,64,75
@@ -1658,7 +1658,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1656,Nicholas Jenkins,M,10th,Huang High School,67,86
 1657,Debbie Gill,F,11th,Huang High School,70,82
 1658,Susan Fernandez,F,12th,Huang High School,98,68
-1659,Brian Hall DDS,M,10th,Huang High School,96,91
+1659,Brian Hall,M,10th,Huang High School,96,91
 1660,Shannon Vance,F,12th,Huang High School,90,94
 1661,Phillip Joseph,M,10th,Huang High School,86,90
 1662,Thomas Fisher,M,12th,Huang High School,86,55
@@ -1694,7 +1694,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1692,Danielle Robles,F,10th,Huang High School,93,65
 1693,Andrea Gonzalez,F,11th,Huang High School,84,75
 1694,Kenneth Ruiz,M,12th,Huang High School,82,65
-1695,Mr. Eric Ibarra,M,9th,Huang High School,88,66
+1695,Eric Ibarra,M,9th,Huang High School,88,66
 1696,Nichole Simmons,F,12th,Huang High School,74,67
 1697,Richard Rodriguez,M,9th,Huang High School,80,91
 1698,Jesus Molina,M,10th,Huang High School,92,76
@@ -1705,7 +1705,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1703,George Melendez,M,9th,Huang High School,91,73
 1704,Marcus Torres,M,10th,Huang High School,92,83
 1705,Andrew Clark,M,12th,Huang High School,89,78
-1706,Benjamin Ramirez MD,M,9th,Huang High School,64,74
+1706,Benjamin Ramirez,M,9th,Huang High School,64,74
 1707,Todd Ramirez,M,10th,Huang High School,65,73
 1708,Sharon Swanson,F,10th,Huang High School,65,94
 1709,Brittany Stevens,F,9th,Huang High School,70,88
@@ -1721,7 +1721,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1719,Martha Wilson,F,10th,Huang High School,86,87
 1720,Lindsey Anderson,F,9th,Huang High School,84,63
 1721,Julia Camacho,F,9th,Huang High School,67,81
-1722,Raymond Freeman DDS,M,9th,Huang High School,97,63
+1722,Raymond Freeman,M,9th,Huang High School,97,63
 1723,Rachel Jones,F,9th,Huang High School,63,89
 1724,Stephanie Reese,F,10th,Huang High School,74,76
 1725,Sharon Tapia,F,10th,Huang High School,64,62
@@ -1775,7 +1775,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1773,Cheryl Avery,F,9th,Huang High School,74,86
 1774,James Fisher,M,12th,Huang High School,65,83
 1775,Wendy Chase,F,10th,Huang High School,83,66
-1776,Carla Reeves MD,F,10th,Huang High School,84,70
+1776,Carla Reeves,F,10th,Huang High School,84,70
 1777,Darrell Rangel,M,10th,Huang High School,92,82
 1778,Allison Sanchez,F,11th,Huang High School,96,65
 1779,John Howard,M,9th,Huang High School,81,83
@@ -1797,7 +1797,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1795,Elizabeth Swanson,F,9th,Huang High School,75,95
 1796,Ashley Cantu,F,10th,Huang High School,78,74
 1797,Daniel Jenkins,M,9th,Huang High School,67,72
-1798,Dr. Donald Williams,M,12th,Huang High School,70,89
+1798,Donald Williams,M,12th,Huang High School,70,89
 1799,Jessica Perez,F,9th,Huang High School,75,84
 1800,Sonia Phillips,F,11th,Huang High School,65,70
 1801,Christopher Graves,M,9th,Huang High School,81,99
@@ -1826,14 +1826,14 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1824,Diana Hammond,F,9th,Huang High School,82,82
 1825,Jessica Poole,F,9th,Huang High School,90,90
 1826,Juan Smith,M,10th,Huang High School,96,95
-1827,Mr. John Carter,M,12th,Huang High School,75,63
+1827,John Carter,M,12th,Huang High School,75,63
 1828,Crystal Lewis,F,10th,Huang High School,82,99
 1829,Julia Jackson,F,11th,Huang High School,66,69
 1830,Kristen Marquez,F,11th,Huang High School,86,61
 1831,David Greene,M,9th,Huang High School,98,87
 1832,Martin Stephenson,M,9th,Huang High School,79,76
 1833,Penny Page,F,10th,Huang High School,74,97
-1834,William Jackson DVM,M,9th,Huang High School,89,69
+1834,William Jackson,M,9th,Huang High School,89,69
 1835,Jasmine Hunter,F,12th,Huang High School,89,81
 1836,Anna West,F,9th,Huang High School,88,74
 1837,Charles Ortiz,M,10th,Huang High School,76,65
@@ -1862,7 +1862,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1860,Megan Stevens,F,11th,Huang High School,71,85
 1861,Kylie Torres,F,11th,Huang High School,74,99
 1862,Terri Lee,F,12th,Huang High School,82,85
-1863,Mr. Mitchell Cooper,M,11th,Huang High School,99,97
+1863,Mitchell Cooper,M,11th,Huang High School,99,97
 1864,Ann Eaton,F,12th,Huang High School,78,62
 1865,Damon Pearson,M,11th,Huang High School,86,83
 1866,Molly Davis,F,11th,Huang High School,75,77
@@ -1916,7 +1916,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 1914,Brooke Sellers,F,11th,Huang High School,94,99
 1915,Alexis Bright,F,12th,Huang High School,92,90
 1916,Jacqueline Hooper,F,12th,Huang High School,89,81
-1917,Mrs. Kathleen Reed,F,12th,Huang High School,66,61
+1917,Kathleen Reed,F,12th,Huang High School,66,61
 1918,Shelia Thompson,F,9th,Huang High School,71,76
 1919,David Jones,M,11th,Huang High School,95,93
 1920,Elijah Wood,M,9th,Huang High School,91,79
@@ -2027,15 +2027,15 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2025,Leslie Guzman,F,11th,Huang High School,95,56
 2026,Cody Mcdonald,M,11th,Huang High School,88,85
 2027,Mitchell Holmes,M,11th,Huang High School,78,60
-2028,Donna Robinson MD,F,11th,Huang High School,88,58
+2028,Donna Robinson,F,11th,Huang High School,88,58
 2029,Deanna Garcia,F,9th,Huang High School,99,61
 2030,Evelyn Boyd,F,9th,Huang High School,82,58
 2031,Joyce Henderson,F,10th,Huang High School,73,87
 2032,Cameron Mcintosh,M,11th,Huang High School,87,57
 2033,Stephanie Lang,F,11th,Huang High School,97,75
 2034,Gary Harper,M,9th,Huang High School,95,61
-2035,Mrs. Dawn Olson DDS,F,11th,Huang High School,73,76
-2036,Mr. Dustin Glover,M,11th,Huang High School,90,57
+2035,Dawn Olson,F,11th,Huang High School,73,76
+2036,Dustin Glover,M,11th,Huang High School,90,57
 2037,Jennifer Hogan,F,9th,Huang High School,64,62
 2038,Kevin Miller,M,9th,Huang High School,77,73
 2039,Nathan Ayers,M,9th,Huang High School,91,88
@@ -2048,13 +2048,13 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2046,Kelly Smith,F,9th,Huang High School,99,61
 2047,Judith Nelson,F,10th,Huang High School,77,89
 2048,Robert Smith,M,11th,Huang High School,83,62
-2049,Alexis French MD,F,10th,Huang High School,90,67
+2049,Alexis French,F,10th,Huang High School,90,67
 2050,Samantha Parker,F,12th,Huang High School,90,93
 2051,Danny Davis,M,10th,Huang High School,64,73
 2052,Zachary Brady,M,9th,Huang High School,89,68
 2053,Amy Higgins,F,9th,Huang High School,71,89
 2054,Thomas Rosario,M,11th,Huang High School,96,96
-2055,Lisa Guerrero MD,F,10th,Huang High School,95,63
+2055,Lisa Guerrero,F,10th,Huang High School,95,63
 2056,Jason Simmons,M,9th,Huang High School,89,72
 2057,William Graves,M,9th,Huang High School,87,56
 2058,Alicia Gallagher,F,10th,Huang High School,82,75
@@ -2076,7 +2076,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2074,Traci Chavez,F,9th,Huang High School,97,66
 2075,Kurt Parker,M,12th,Huang High School,86,82
 2076,Brian Lyons,M,12th,Huang High School,73,92
-2077,David Nguyen DVM,M,9th,Huang High School,82,63
+2077,David Nguyen,M,9th,Huang High School,82,63
 2078,Kevin Perry,M,9th,Huang High School,72,79
 2079,Rachel English,F,11th,Huang High School,95,63
 2080,Carlos Torres,M,11th,Huang High School,71,84
@@ -2114,13 +2114,13 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2112,Kyle Cannon,M,11th,Huang High School,81,79
 2113,Jessica Gomez,F,12th,Huang High School,84,68
 2114,Eric Nichols,M,9th,Huang High School,94,70
-2115,Julie Patterson MD,F,9th,Huang High School,94,82
+2115,Julie Patterson,F,9th,Huang High School,94,82
 2116,Shawn Dougherty,M,10th,Huang High School,76,80
 2117,Eileen Terry,F,12th,Huang High School,96,89
 2118,Nicole Barnes,F,12th,Huang High School,75,65
 2119,Pamela Perry,F,10th,Huang High School,81,59
 2120,Susan Wright,F,10th,Huang High School,91,98
-2121,Mr. James Kelly,M,10th,Huang High School,74,92
+2121,James Kelly,M,10th,Huang High School,74,92
 2122,Jason Lopez,M,9th,Huang High School,92,83
 2123,Nancy Barnes,F,11th,Huang High School,67,80
 2124,Veronica Carter,F,12th,Huang High School,89,62
@@ -2128,7 +2128,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2126,Courtney Ayala,F,9th,Huang High School,77,97
 2127,Jared Dunn,M,12th,Huang High School,88,74
 2128,Dylan Allison,M,9th,Huang High School,69,61
-2129,Dr. Robert Martin,M,10th,Huang High School,73,61
+2129,Robert Martin,M,10th,Huang High School,73,61
 2130,Traci Horton,F,12th,Huang High School,80,76
 2131,John Torres,M,9th,Huang High School,92,71
 2132,Susan Crawford,F,12th,Huang High School,96,61
@@ -2158,8 +2158,8 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2156,Jane Phillips,F,12th,Huang High School,70,86
 2157,John Haynes,M,12th,Huang High School,95,76
 2158,Denise Vazquez,F,10th,Huang High School,79,67
-2159,Darlene Thomas PhD,F,10th,Huang High School,90,74
-2160,Mr. Juan Jenkins,M,9th,Huang High School,83,68
+2159,Darlene Thomas,F,10th,Huang High School,90,74
+2160,Juan Jenkins,M,9th,Huang High School,83,68
 2161,Dennis Wheeler,M,12th,Huang High School,63,78
 2162,Ronald Sanchez,M,9th,Huang High School,76,56
 2163,Teresa Mason,F,11th,Huang High School,96,78
@@ -2198,13 +2198,13 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2196,Madison Shaffer,F,10th,Huang High School,90,61
 2197,Tristan King,M,9th,Huang High School,71,57
 2198,Taylor Mendez,M,12th,Huang High School,70,60
-2199,Mr. Juan Bryant II,M,10th,Huang High School,98,84
+2199,Juan Bryant II,M,10th,Huang High School,98,84
 2200,Jared Long,M,11th,Huang High School,97,74
 2201,Shannon Martinez,F,9th,Huang High School,98,85
 2202,Alex Huynh,M,11th,Huang High School,80,69
 2203,Melissa Jones,F,11th,Huang High School,93,91
 2204,Jeremy Murray,M,9th,Huang High School,63,58
-2205,Mr. Matthew Coleman,M,9th,Huang High School,77,91
+2205,Matthew Coleman,M,9th,Huang High School,77,91
 2206,Aaron Foster,M,12th,Huang High School,82,89
 2207,Lauren Taylor,F,11th,Huang High School,93,94
 2208,Charles Williams,M,11th,Huang High School,82,63
@@ -2215,7 +2215,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2213,Amanda Freeman,F,9th,Huang High School,68,72
 2214,Kyle Howard,M,11th,Huang High School,77,56
 2215,Lisa Johnson,F,11th,Huang High School,89,78
-2216,Bonnie Hammond MD,F,10th,Huang High School,95,75
+2216,Bonnie Hammond,F,10th,Huang High School,95,75
 2217,Corey Thompson,M,9th,Huang High School,71,57
 2218,James Castaneda,M,11th,Huang High School,86,99
 2219,Christopher Brown,M,10th,Huang High School,71,96
@@ -2236,7 +2236,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2234,Michael Mack,M,9th,Huang High School,74,95
 2235,Jordan Duncan,M,9th,Huang High School,71,96
 2236,Mary Cook,F,10th,Huang High School,83,67
-2237,Kathleen Harris DDS,F,11th,Huang High School,71,56
+2237,Kathleen Harris,F,11th,Huang High School,71,56
 2238,John Young,M,10th,Huang High School,83,57
 2239,Charles Howard,M,11th,Huang High School,87,99
 2240,Tanya Donaldson,F,9th,Huang High School,96,75
@@ -2265,7 +2265,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2263,Julie Tucker,F,11th,Huang High School,79,63
 2264,Dana Cook,F,11th,Huang High School,63,99
 2265,Robin Ellis,F,10th,Huang High School,65,93
-2266,Steven Velez DDS,M,12th,Huang High School,70,62
+2266,Steven Velez,M,12th,Huang High School,70,62
 2267,Christine Haynes,F,12th,Huang High School,70,63
 2268,Matthew Ryan,M,9th,Huang High School,64,80
 2269,Beth Hendricks,F,10th,Huang High School,66,99
@@ -2284,8 +2284,8 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2282,Paul Mercado,M,10th,Huang High School,94,65
 2283,Bobby Larson,M,11th,Huang High School,83,82
 2284,Samantha Fitzpatrick,F,12th,Huang High School,97,66
-2285,Tammy Cruz DDS,F,9th,Huang High School,91,96
-2286,Dr. Marie Williams,F,11th,Huang High School,95,77
+2285,Tammy Cruz,F,9th,Huang High School,91,96
+2286,Marie Williams,F,11th,Huang High School,95,77
 2287,Taylor Schaefer,F,11th,Huang High School,70,84
 2288,Nichole Schultz,F,12th,Huang High School,92,85
 2289,Olivia Mosley,F,10th,Huang High School,93,59
@@ -2319,7 +2319,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2317,Jorge Romero,M,10th,Huang High School,66,62
 2318,Daniel Salazar,M,12th,Huang High School,96,72
 2319,Kristin Morgan,F,12th,Huang High School,97,81
-2320,Mr. Jose Morris,M,11th,Huang High School,74,73
+2320,Jose Morris,M,11th,Huang High School,74,73
 2321,Dennis Dunn,M,11th,Huang High School,77,75
 2322,Alexandria Hartman,F,9th,Huang High School,99,69
 2323,Richard Blackwell,M,11th,Huang High School,68,56
@@ -2354,7 +2354,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2352,Scott Rivers III,M,12th,Huang High School,74,60
 2353,Tammy Hayes,F,12th,Huang High School,98,83
 2354,Danny Sanford,M,10th,Huang High School,97,92
-2355,Melissa Rodriguez MD,F,12th,Huang High School,64,95
+2355,Melissa Rodriguez,F,12th,Huang High School,64,95
 2356,Scott Hunter,M,11th,Huang High School,84,75
 2357,Devin Love,M,9th,Huang High School,63,96
 2358,Ronald Ayala,M,9th,Huang High School,63,84
@@ -2401,7 +2401,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2399,Anthony Bailey,M,10th,Huang High School,68,74
 2400,Rebecca Jones,F,9th,Huang High School,98,65
 2401,Rebecca Schroeder,F,9th,Huang High School,91,90
-2402,Geoffrey Ortiz MD,M,9th,Huang High School,82,92
+2402,Geoffrey Ortiz,M,9th,Huang High School,82,92
 2403,Katrina Jackson,F,10th,Huang High School,70,57
 2404,Steven Solomon,M,9th,Huang High School,63,97
 2405,Barbara Ramos,F,9th,Huang High School,71,91
@@ -2448,7 +2448,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2446,Anita Benitez,F,11th,Huang High School,81,86
 2447,Jill Santiago,F,10th,Huang High School,82,94
 2448,Rachael Vaughn,F,9th,Huang High School,78,76
-2449,Matthew Stewart MD,M,12th,Huang High School,67,85
+2449,Matthew Stewart,M,12th,Huang High School,67,85
 2450,Trevor Snyder,M,12th,Huang High School,77,66
 2451,Sally Pitts,F,12th,Huang High School,85,80
 2452,Gloria Joseph,F,12th,Huang High School,71,56
@@ -2585,7 +2585,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2583,Kathryn Williams,F,10th,Huang High School,99,89
 2584,Donna Cook,F,9th,Huang High School,64,77
 2585,Candice Jordan,F,10th,Huang High School,92,75
-2586,Sandra Thompson DDS,F,10th,Huang High School,94,62
+2586,Sandra Thompson,F,10th,Huang High School,94,62
 2587,Kristen Mckinney,F,10th,Huang High School,70,64
 2588,Gerald Porter,M,11th,Huang High School,65,79
 2589,Judith Hall,F,10th,Huang High School,72,58
@@ -2644,7 +2644,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2642,Scott Wilson,M,9th,Huang High School,95,75
 2643,Terry Gardner,F,11th,Huang High School,93,63
 2644,Sue Schwartz,F,11th,Huang High School,97,63
-2645,Mrs. Maria Smith DDS,F,10th,Huang High School,63,87
+2645,Maria Smith,F,10th,Huang High School,63,87
 2646,Dan Mejia,M,12th,Huang High School,90,83
 2647,David Salinas,M,10th,Huang High School,90,70
 2648,Jennifer Boone,F,10th,Huang High School,89,95
@@ -2686,7 +2686,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2684,Cassandra Turner,F,11th,Huang High School,83,97
 2685,Valerie Warren,F,11th,Huang High School,80,84
 2686,Daniel Webb,M,12th,Huang High School,66,79
-2687,Dr. Kimberly Clements,F,9th,Huang High School,99,90
+2687,Kimberly Clements,F,9th,Huang High School,99,90
 2688,Tanya Hernandez,F,10th,Huang High School,77,98
 2689,Jill Carey,F,11th,Huang High School,89,63
 2690,Sara Vang,F,12th,Huang High School,97,67
@@ -2728,18 +2728,18 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2726,Jessica Green,F,9th,Huang High School,97,55
 2727,Michaela Robles,F,9th,Huang High School,94,85
 2728,Joshua Campos,M,11th,Huang High School,71,61
-2729,Dr. Kenneth Webb,M,11th,Huang High School,83,95
+2729,Kenneth Webb,M,11th,Huang High School,83,95
 2730,Daniel Stephens,M,10th,Huang High School,67,90
 2731,Christopher Melendez,M,12th,Huang High School,83,71
 2732,Timothy Leach,M,10th,Huang High School,94,81
 2733,John Calhoun,M,10th,Huang High School,78,99
 2734,Connie Myers,F,10th,Huang High School,63,95
-2735,Amanda Patterson DVM,F,9th,Huang High School,76,94
+2735,Amanda Patterson,F,9th,Huang High School,76,94
 2736,Rachel Scott,F,11th,Huang High School,77,55
 2737,Aaron Booker,M,12th,Huang High School,81,64
 2738,Kelly Browning,F,10th,Huang High School,88,83
 2739,Ricky Murphy,M,12th,Huang High School,87,86
-2740,Miss Tara Banks DDS,F,10th,Huang High School,83,67
+2740,Tara Banks,F,10th,Huang High School,83,67
 2741,Benjamin James,M,9th,Huang High School,69,74
 2742,Jessica Hudson,F,11th,Huang High School,92,62
 2743,Daniel Miller,M,11th,Huang High School,85,87
@@ -2763,7 +2763,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2761,James Phillips,M,10th,Huang High School,78,81
 2762,Caroline Gonzales,F,9th,Huang High School,71,80
 2763,Nicole Wall,F,9th,Huang High School,96,97
-2764,Nancy Brown DVM,F,12th,Huang High School,74,77
+2764,Nancy Brown,F,12th,Huang High School,74,77
 2765,Patricia Velazquez,F,11th,Huang High School,80,57
 2766,John White,M,9th,Huang High School,66,64
 2767,Meghan Anderson,F,10th,Huang High School,76,97
@@ -2803,7 +2803,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2801,Robert Burns,M,10th,Huang High School,90,67
 2802,Brooke Sanchez,F,11th,Huang High School,70,79
 2803,Alyssa Stanley,F,12th,Huang High School,64,93
-2804,Chase Boyd MD,M,10th,Huang High School,85,83
+2804,Chase Boyd,M,10th,Huang High School,85,83
 2805,Cassandra Turner,F,10th,Huang High School,81,71
 2806,Lee Mcdonald,M,9th,Huang High School,79,66
 2807,Douglas Mueller,M,11th,Huang High School,88,70
@@ -2828,8 +2828,8 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2826,Zachary Elliott,M,9th,Huang High School,93,92
 2827,Robert Anderson,M,9th,Huang High School,69,98
 2828,Ryan Roberts,M,10th,Huang High School,79,76
-2829,Mr. James Spence,M,11th,Huang High School,63,60
-2830,Miss Colleen Stewart DDS,F,9th,Huang High School,93,81
+2829,James Spence,M,11th,Huang High School,63,60
+2830,Colleen Stewart,F,9th,Huang High School,93,81
 2831,Phillip Alvarez,M,9th,Huang High School,65,91
 2832,Michele Walker,F,11th,Huang High School,69,63
 2833,Benjamin Ellis,M,9th,Huang High School,81,87
@@ -2901,7 +2901,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2899,Jorge Richardson,M,11th,Huang High School,94,83
 2900,Tracey Meza,F,10th,Huang High School,72,68
 2901,Brandon Morse,M,10th,Huang High School,99,78
-2902,Mr. Todd Greene PhD,M,9th,Huang High School,77,68
+2902,Todd Greene,M,9th,Huang High School,77,68
 2903,Hannah Johnson,F,11th,Huang High School,87,57
 2904,Brandon Bennett,M,9th,Huang High School,85,83
 2905,Emily Dixon,F,11th,Huang High School,78,78
@@ -2921,7 +2921,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2919,Randall Stewart,M,12th,Figueroa High School,67,77
 2920,Jennifer Brown,F,9th,Figueroa High School,97,64
 2921,Denise Lopez,F,10th,Figueroa High School,79,64
-2922,Amanda Hamilton DDS,F,9th,Figueroa High School,72,93
+2922,Amanda Hamilton,F,9th,Figueroa High School,72,93
 2923,Anthony Pace,M,10th,Figueroa High School,66,90
 2924,Anthony Haynes,M,12th,Figueroa High School,81,75
 2925,Natasha Maxwell,F,9th,Figueroa High School,76,77
@@ -2937,7 +2937,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2935,Robert Davis,M,12th,Figueroa High School,94,94
 2936,Katie Hensley,F,10th,Figueroa High School,78,71
 2937,Steven Salas,M,10th,Figueroa High School,67,92
-2938,Mrs. Lisa Rowland,F,11th,Figueroa High School,77,65
+2938,Lisa Rowland,F,11th,Figueroa High School,77,65
 2939,Jason Lewis,M,11th,Figueroa High School,81,79
 2940,James Adams,M,12th,Figueroa High School,85,96
 2941,Joseph Walker,M,9th,Figueroa High School,89,68
@@ -2952,7 +2952,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2950,Michael Tucker,M,11th,Figueroa High School,99,70
 2951,Latoya Gray,F,12th,Figueroa High School,86,91
 2952,Cynthia Wilson,F,9th,Figueroa High School,82,81
-2953,Mr. Eric Moon,M,9th,Figueroa High School,93,67
+2953,Eric Moon,M,9th,Figueroa High School,93,67
 2954,Sarah Miller,F,9th,Figueroa High School,73,61
 2955,Larry Hines,M,10th,Figueroa High School,70,82
 2956,Steven Hayden,M,9th,Figueroa High School,76,67
@@ -2998,14 +2998,14 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 2996,Rachel Campbell,F,9th,Figueroa High School,77,87
 2997,Jessica Sharp,F,10th,Figueroa High School,77,61
 2998,Mallory Nguyen,F,9th,Figueroa High School,67,68
-2999,Mrs. Alicia Kelly DDS,F,11th,Figueroa High School,71,65
+2999,Alicia Kelly,F,11th,Figueroa High School,71,65
 3000,Marc Clark,M,10th,Figueroa High School,89,60
 3001,Melissa Waters,F,9th,Figueroa High School,78,90
 3002,Richard Vargas,M,10th,Figueroa High School,85,83
 3003,Nancy Silva,F,9th,Figueroa High School,84,57
 3004,David Jones,M,12th,Figueroa High School,77,81
 3005,Erin Blake,F,10th,Figueroa High School,89,92
-3006,Mr. Michael Norton Jr.,M,12th,Figueroa High School,95,73
+3006,Michael Norton Jr.,M,12th,Figueroa High School,95,73
 3007,Jordan Nelson,M,9th,Figueroa High School,77,59
 3008,Jeffery Becker,M,12th,Figueroa High School,87,59
 3009,Patrick Roberts,M,10th,Figueroa High School,71,56
@@ -3051,7 +3051,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3049,Walter Lawrence,M,12th,Figueroa High School,85,97
 3050,Timothy Clark,M,10th,Figueroa High School,64,75
 3051,Craig Walsh,M,11th,Figueroa High School,65,60
-3052,Mr. James Crosby,M,11th,Figueroa High School,87,70
+3052,James Crosby,M,11th,Figueroa High School,87,70
 3053,Jeremy Ford,M,12th,Figueroa High School,77,55
 3054,Ashley Matthews,F,12th,Figueroa High School,82,89
 3055,Matthew Henry,M,10th,Figueroa High School,64,70
@@ -3113,14 +3113,14 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3111,Thomas Klein,M,12th,Figueroa High School,75,57
 3112,Michael Mendoza,M,9th,Figueroa High School,93,99
 3113,Mary Lowery,F,11th,Figueroa High School,74,99
-3114,Mr. Sean Pena Jr.,M,12th,Figueroa High School,85,77
+3114,Sean Pena Jr.,M,12th,Figueroa High School,85,77
 3115,Daniel Woodward,M,12th,Figueroa High School,70,56
 3116,Debbie Scott,F,10th,Figueroa High School,82,93
 3117,Evelyn Krause,F,10th,Figueroa High School,84,64
 3118,Vincent Casey,M,12th,Figueroa High School,99,81
 3119,Tyler Freeman,M,9th,Figueroa High School,92,65
 3120,Lauren Ramos,F,10th,Figueroa High School,86,71
-3121,Kathy Lucero DVM,F,10th,Figueroa High School,73,85
+3121,Kathy Lucero,F,10th,Figueroa High School,73,85
 3122,Anna Kelly,F,11th,Figueroa High School,96,97
 3123,Walter Bowers,M,10th,Figueroa High School,72,80
 3124,Robert Chang,M,11th,Figueroa High School,64,94
@@ -3132,7 +3132,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3130,Christina Andrews,F,11th,Figueroa High School,65,92
 3131,Kevin Underwood,M,12th,Figueroa High School,66,92
 3132,Deborah Perez,F,10th,Figueroa High School,92,55
-3133,Dustin Ferguson DDS,M,12th,Figueroa High School,90,83
+3133,Dustin Ferguson,M,12th,Figueroa High School,90,83
 3134,Brandon Weiss,M,11th,Figueroa High School,63,85
 3135,Nicole Ray,F,12th,Figueroa High School,84,95
 3136,Sean Gonzalez,M,12th,Figueroa High School,97,84
@@ -3154,7 +3154,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3152,Cindy Lopez,F,12th,Figueroa High School,96,63
 3153,Christopher Warner,M,10th,Figueroa High School,89,86
 3154,Anthony Hines,M,9th,Figueroa High School,89,85
-3155,Dr. James Patterson,M,9th,Figueroa High School,76,95
+3155,James Patterson,M,9th,Figueroa High School,76,95
 3156,Tracy David,F,11th,Figueroa High School,66,75
 3157,Elizabeth Walker,F,10th,Figueroa High School,87,90
 3158,Joseph Holt,M,12th,Figueroa High School,81,98
@@ -3163,8 +3163,8 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3161,Scott Cordova,M,9th,Figueroa High School,83,65
 3162,Jordan Floyd,M,12th,Figueroa High School,84,66
 3163,Joshua Salinas,M,9th,Figueroa High School,72,99
-3164,Dr. Juan Cobb MD,M,11th,Figueroa High School,66,89
-3165,Victoria Garcia MD,F,9th,Figueroa High School,68,81
+3164,Juan Cobb,M,11th,Figueroa High School,66,89
+3165,Victoria Garcia,F,9th,Figueroa High School,68,81
 3166,Mike Cruz,M,10th,Figueroa High School,93,57
 3167,Christine Manning,F,9th,Figueroa High School,99,60
 3168,Monica Brewer,F,9th,Figueroa High School,98,61
@@ -3188,7 +3188,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3186,Daniel Hughes,M,9th,Figueroa High School,67,87
 3187,Jason Le,M,10th,Figueroa High School,98,92
 3188,Andre Day,M,12th,Figueroa High School,84,63
-3189,Michael Evans DVM,M,10th,Figueroa High School,68,94
+3189,Michael Evans,M,10th,Figueroa High School,68,94
 3190,Catherine Mckinney,F,10th,Figueroa High School,90,58
 3191,April Patterson,F,12th,Figueroa High School,85,60
 3192,Richard Martinez,M,10th,Figueroa High School,71,99
@@ -3201,7 +3201,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3199,Christopher Baker,M,10th,Figueroa High School,81,56
 3200,Tina Mendoza,F,9th,Figueroa High School,73,79
 3201,Megan Webb,F,10th,Figueroa High School,95,83
-3202,Miss Ebony Bell,F,12th,Figueroa High School,72,78
+3202,Ebony Bell,F,12th,Figueroa High School,72,78
 3203,Richard Smith,M,9th,Figueroa High School,75,98
 3204,Christina Garrett,F,9th,Figueroa High School,79,68
 3205,Lisa Griffin,F,9th,Figueroa High School,93,85
@@ -3278,7 +3278,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3276,Christian Williams,M,10th,Figueroa High School,79,89
 3277,Richard Bauer,M,12th,Figueroa High School,68,55
 3278,Richard Kerr,M,10th,Figueroa High School,67,61
-3279,Mr. Justin Mullins DDS,M,10th,Figueroa High School,65,86
+3279,Justin Mullins,M,10th,Figueroa High School,65,86
 3280,Amanda Mclaughlin,F,9th,Figueroa High School,95,65
 3281,Angela Anderson,F,10th,Figueroa High School,71,96
 3282,Sarah Lawson,F,11th,Figueroa High School,78,70
@@ -3350,7 +3350,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3348,Melanie Cox,F,9th,Figueroa High School,70,82
 3349,Cheryl Brewer,F,12th,Figueroa High School,69,88
 3350,Lauren Holt,F,11th,Figueroa High School,63,90
-3351,Mr. Eric Hicks,M,12th,Figueroa High School,99,67
+3351,Eric Hicks,M,12th,Figueroa High School,99,67
 3352,Eric Patton,M,9th,Figueroa High School,95,83
 3353,David Watson,M,11th,Figueroa High School,93,77
 3354,Valerie Scott,F,10th,Figueroa High School,68,63
@@ -3358,7 +3358,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3356,Cynthia Thompson,F,10th,Figueroa High School,96,68
 3357,Miguel Arnold,M,10th,Figueroa High School,75,67
 3358,Eddie Harris,M,10th,Figueroa High School,67,56
-3359,Tara Williams DVM,F,11th,Figueroa High School,91,64
+3359,Tara Williams,F,11th,Figueroa High School,91,64
 3360,Wesley Stewart,M,10th,Figueroa High School,68,85
 3361,Paula Wilcox,F,9th,Figueroa High School,88,90
 3362,Joshua Edwards,M,11th,Figueroa High School,72,74
@@ -3384,7 +3384,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3382,Ronald Porter,M,11th,Figueroa High School,84,60
 3383,Vanessa Brown,F,9th,Figueroa High School,75,97
 3384,Derrick Johnson,M,9th,Figueroa High School,87,80
-3385,Dr. Jessica Watkins,F,11th,Figueroa High School,65,68
+3385,Jessica Watkins,F,11th,Figueroa High School,65,68
 3386,Anthony Pineda,M,10th,Figueroa High School,89,87
 3387,Alexandra Norris,F,9th,Figueroa High School,90,58
 3388,John Hernandez,M,9th,Figueroa High School,99,62
@@ -3401,7 +3401,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3399,Jennifer Rodriguez,F,9th,Figueroa High School,80,56
 3400,Alex Nguyen,M,9th,Figueroa High School,67,69
 3401,Stephanie Martin,F,11th,Figueroa High School,95,58
-3402,Mr. Joseph Turner,M,9th,Figueroa High School,81,63
+3402,Joseph Turner,M,9th,Figueroa High School,81,63
 3403,John Mendoza,M,12th,Figueroa High School,77,69
 3404,Sarah Lee,F,12th,Figueroa High School,96,83
 3405,Daniel Larsen,M,12th,Figueroa High School,91,71
@@ -3421,7 +3421,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3419,Andrea Johnson,F,10th,Figueroa High School,68,82
 3420,Colton Turner,M,9th,Figueroa High School,91,74
 3421,Jeremy Saunders,M,10th,Figueroa High School,68,87
-3422,Kiara Williams MD,F,11th,Figueroa High School,66,99
+3422,Kiara Williams,F,11th,Figueroa High School,66,99
 3423,Jillian Bass,F,11th,Figueroa High School,69,69
 3424,James Ellis,M,12th,Figueroa High School,76,57
 3425,Adam Reed,M,9th,Figueroa High School,65,67
@@ -3449,7 +3449,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3447,Christopher Harper,M,12th,Figueroa High School,92,90
 3448,Angela Long,F,10th,Figueroa High School,98,67
 3449,Michael Mcknight,M,10th,Figueroa High School,69,99
-3450,Steve Hendricks MD,M,10th,Figueroa High School,71,80
+3450,Steve Hendricks,M,10th,Figueroa High School,71,80
 3451,Gary Golden,M,9th,Figueroa High School,88,91
 3452,Kimberly Cunningham,F,12th,Figueroa High School,74,99
 3453,Luis Silva,M,10th,Figueroa High School,88,69
@@ -3464,22 +3464,22 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3462,Christopher Ortiz,M,10th,Figueroa High School,63,95
 3463,Marcus Griffin,M,9th,Figueroa High School,97,55
 3464,Abigail Shelton,F,11th,Figueroa High School,83,78
-3465,Mr. Victor Duarte,M,11th,Figueroa High School,86,79
+3465,Victor Duarte,M,11th,Figueroa High School,86,79
 3466,Bradley Stone,M,11th,Figueroa High School,63,79
-3467,Dr. Stacy Maynard,F,12th,Figueroa High School,99,82
+3467,Stacy Maynard,F,12th,Figueroa High School,99,82
 3468,Rachael Crosby,F,10th,Figueroa High School,70,98
 3469,Tara Maldonado,F,9th,Figueroa High School,89,93
 3470,Michael Martin,M,9th,Figueroa High School,72,55
 3471,Amanda Mahoney,F,9th,Figueroa High School,76,77
 3472,Tracey Thompson,F,9th,Figueroa High School,96,69
-3473,Mr. Steven Snyder PhD,M,12th,Figueroa High School,70,98
+3473,Steven Snyder,M,12th,Figueroa High School,70,98
 3474,Nathan Coleman,M,9th,Figueroa High School,82,98
 3475,Sarah Soto,F,11th,Figueroa High School,79,72
 3476,Andrew Fox,M,10th,Figueroa High School,89,89
 3477,Dennis Green,M,11th,Figueroa High School,87,88
 3478,Sarah Shelton,F,10th,Figueroa High School,89,78
-3479,Jessica Warner PhD,F,12th,Figueroa High School,83,63
-3480,Trevor Summers DDS,M,9th,Figueroa High School,77,59
+3479,Jessica Warner,F,12th,Figueroa High School,83,63
+3480,Trevor Summers,M,9th,Figueroa High School,77,59
 3481,Tiffany Dennis,F,11th,Figueroa High School,70,61
 3482,Julia Potter,F,12th,Figueroa High School,92,57
 3483,Stacy Castillo,F,10th,Figueroa High School,86,62
@@ -3511,7 +3511,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3509,Sarah Davidson,F,10th,Figueroa High School,65,71
 3510,Travis Lee,M,10th,Figueroa High School,69,72
 3511,Anthony Rogers,M,9th,Figueroa High School,92,91
-3512,Maria Doyle MD,F,12th,Figueroa High School,64,64
+3512,Maria Doyle,F,12th,Figueroa High School,64,64
 3513,Eric Allen,M,9th,Figueroa High School,95,59
 3514,William Dennis,M,10th,Figueroa High School,99,84
 3515,John Collins,M,10th,Figueroa High School,92,75
@@ -3524,7 +3524,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3522,Paul Day,M,12th,Figueroa High School,83,66
 3523,Jared Ramirez,M,12th,Figueroa High School,87,81
 3524,David Perez,M,10th,Figueroa High School,83,81
-3525,Stacie Walker DDS,F,11th,Figueroa High School,70,75
+3525,Stacie Walker,F,11th,Figueroa High School,70,75
 3526,James Garrett,M,12th,Figueroa High School,75,91
 3527,Carrie Downs,F,11th,Figueroa High School,68,82
 3528,Martin Anderson,M,9th,Figueroa High School,88,70
@@ -3597,10 +3597,10 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3595,Calvin Moore,M,10th,Figueroa High School,72,77
 3596,Laura Serrano,F,11th,Figueroa High School,89,57
 3597,Cynthia Miller,F,11th,Figueroa High School,84,63
-3598,Megan House DVM,F,10th,Figueroa High School,96,73
+3598,Megan House,F,10th,Figueroa High School,96,73
 3599,Aaron Hernandez,M,12th,Figueroa High School,90,97
 3600,Christine Evans,F,10th,Figueroa High School,74,58
-3601,Ms. Deborah Coleman,F,10th,Figueroa High School,74,71
+3601,Deborah Coleman,F,10th,Figueroa High School,74,71
 3602,Frederick Gonzalez,M,11th,Figueroa High School,98,79
 3603,Benjamin Shaffer,M,10th,Figueroa High School,94,64
 3604,Richard Edwards,M,9th,Figueroa High School,87,94
@@ -3654,7 +3654,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3652,Phillip Nguyen,M,12th,Figueroa High School,76,77
 3653,Brian Foster,M,10th,Figueroa High School,99,61
 3654,Andrew Austin,M,9th,Figueroa High School,81,93
-3655,Dr. Ryan Barker,M,9th,Figueroa High School,87,95
+3655,Ryan Barker,M,9th,Figueroa High School,87,95
 3656,Wayne Griffin,M,11th,Figueroa High School,66,62
 3657,Christina Trevino,F,10th,Figueroa High School,66,71
 3658,Roberto Garcia,M,11th,Figueroa High School,77,69
@@ -3730,7 +3730,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3728,Melody Kim,F,9th,Figueroa High School,79,80
 3729,Johnathan Horton,M,9th,Figueroa High School,72,67
 3730,Melissa Stevens,F,10th,Figueroa High School,83,76
-3731,Mr. Michael Cox,M,10th,Figueroa High School,98,77
+3731,Michael Cox,M,10th,Figueroa High School,98,77
 3732,Heidi Johnson,F,12th,Figueroa High School,98,61
 3733,Brittany Hardy,F,11th,Figueroa High School,92,90
 3734,Adrian Crane,M,12th,Figueroa High School,72,99
@@ -3747,9 +3747,9 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3745,Linda Jenkins,F,9th,Figueroa High School,89,97
 3746,Mary Harris,F,10th,Figueroa High School,92,84
 3747,Sarah Little,F,10th,Figueroa High School,88,97
-3748,Mrs. Rebecca Martin DVM,F,12th,Figueroa High School,92,87
+3748,Rebecca Martin,F,12th,Figueroa High School,92,87
 3749,Lindsey Payne,F,12th,Figueroa High School,69,78
-3750,Sara Jacobs MD,F,10th,Figueroa High School,87,65
+3750,Sara Jacobs,F,10th,Figueroa High School,87,65
 3751,Matthew Crosby,M,12th,Figueroa High School,96,58
 3752,Reginald Shaw,M,9th,Figueroa High School,76,59
 3753,Paul Curry,M,10th,Figueroa High School,97,67
@@ -3768,7 +3768,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3766,Mark Ayala,M,11th,Figueroa High School,77,76
 3767,Derek Cole,M,12th,Figueroa High School,96,87
 3768,Stephanie Conway,F,10th,Figueroa High School,66,89
-3769,Mr. Jason Daugherty Jr.,M,11th,Figueroa High School,98,96
+3769,Jason Daugherty Jr.,M,11th,Figueroa High School,98,96
 3770,Lorraine Carlson,F,9th,Figueroa High School,72,78
 3771,William Todd,M,9th,Figueroa High School,68,74
 3772,Rachel Cantrell,F,9th,Figueroa High School,66,66
@@ -3795,7 +3795,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3793,Amy Hampton,F,10th,Figueroa High School,80,67
 3794,Eric Burns,M,9th,Figueroa High School,68,61
 3795,Nicholas Rhodes,M,12th,Figueroa High School,98,74
-3796,Mrs. Natalie Holder MD,F,10th,Figueroa High School,79,70
+3796,Natalie Holder,F,10th,Figueroa High School,79,70
 3797,Cynthia Shea,F,10th,Figueroa High School,82,74
 3798,Allen Mcdonald,M,9th,Figueroa High School,99,71
 3799,Scott Rodriguez,M,10th,Figueroa High School,68,67
@@ -3827,7 +3827,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 3825,Ashley Bradley,F,12th,Figueroa High School,73,90
 3826,Heather Barnes,F,9th,Figueroa High School,71,55
 3827,Allison Scott,F,9th,Figueroa High School,95,64
-3828,Charles Hernandez DDS,M,11th,Figueroa High School,91,98
+3828,Charles Hernandez,M,11th,Figueroa High School,91,98
 3829,Austin Briggs,M,12th,Figueroa High School,67,71
 3830,Rhonda Craig,F,9th,Figueroa High School,99,88
 3831,Jennifer Dorsey,F,9th,Figueroa High School,94,57
@@ -39104,7 +39104,7 @@ Student ID,student_name,gender,grade,school_name,reading_score,math_score
 39102,Jennifer White,F,9th,Thomas High School,85,94
 39103,Carrie Stewart,F,9th,Thomas High School,83,91
 39104,Karen Rogers,F,11th,Thomas High School,83,95
-39105,Dr. Kimberly Page,F,9th,Thomas High School,88,85
+39105,Kimberly Page,F,9th,Thomas High School,88,85
 39106,Catherine Mendoza,F,11th,Thomas High School,94,70
 39107,Stacy Wells,F,9th,Thomas High School,72,81
 39108,Crystal Smith,F,12th,Thomas High School,85,85
